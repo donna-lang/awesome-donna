@@ -39,6 +39,9 @@ Donna is self-hosted and targets native binaries through QBE.
 - [donna](https://github.com/donna-lang/donna) — The Donna programming language compiler and CLI.
 - [stdlib](https://github.com/donna-lang/stdlib) — Donna standard library.
 
+### Cryptography
+- [crypt](https://github.com/donna-lang/crypt)— Cryptographic hashing utilities for Donna
+
 ### Parsing & Formats
 
 - [markdown](https://github.com/NikolasSkyl/markdown) — Minimum Markdown support for Donna.
