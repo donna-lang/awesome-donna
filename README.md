@@ -53,6 +53,7 @@ Donna is self-hosted and targets native binaries through QBE.
 
 ### Testing
 - [unittest](https://github.com/donna-lang/unittest) — Unit testing library for Donna.
+- [snappy](https://github.com/NikolasSkyl/snappy) - Snapshot testing for Donna.
 
 ### Web
 
